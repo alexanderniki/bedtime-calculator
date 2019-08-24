@@ -1,7 +1,3 @@
-#!/usr/bin/python3
-# -*- coding: utf-8 -*-
-
-# System lib:
 import sys
 
 # Waketime calculator:
